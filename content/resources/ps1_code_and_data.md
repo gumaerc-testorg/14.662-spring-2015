@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a special file that contains information regarding problem set
   1 code and data.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-662-labor-economics-ii-spring-2015/e8be95cdf8c0786aa44b9c91d7600569_ps1_code_and_data.zip
+file: /media/courses/14-662-labor-economics-ii-spring-2015/e8be95cdf8c0786aa44b9c91d7600569_ps1_code_and_data.zip
 file_type: application/zip
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: ps1_code_and_data.zip
 uid: e8be95cd-f8c0-786a-a44b-9c91d7600569

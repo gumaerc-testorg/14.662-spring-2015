@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding lecture 20.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-662-labor-economics-ii-spring-2015/a696038fb2866cd19e1787a9d3bd4522_MIT14_662S15_lecnotes20.pdf
+file: /media/courses/14-662-labor-economics-ii-spring-2015/a696038fb2866cd19e1787a9d3bd4522_MIT14_662S15_lecnotes20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 14.662 S15 Labor Economics II Lecture 20
 uid: a696038f-b286-6cd1-9e17-87a9d3bd4522

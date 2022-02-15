@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture slide
   19.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-662-labor-economics-ii-spring-2015/4d0a285f3797277f1d67cf3a9e3416d6_MIT14_662S15_lec_slides19.pdf
+file: /media/courses/14-662-labor-economics-ii-spring-2015/4d0a285f3797277f1d67cf3a9e3416d6_MIT14_662S15_lec_slides19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '14.662 S15 Discrimination: Theory Lecture Slides'
 uid: 4d0a285f-3797-277f-1d67-cf3a9e3416d6

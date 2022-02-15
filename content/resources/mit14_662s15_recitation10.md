@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding recitation 10.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-662-labor-economics-ii-spring-2015/d6107bc11e91d6bdc834112a37f660c4_MIT14_662S15_Recitation10.pdf
+file: /media/courses/14-662-labor-economics-ii-spring-2015/d6107bc11e91d6bdc834112a37f660c4_MIT14_662S15_Recitation10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: '14.662 Spring 2015 Recitation Notes: Goldberger (1984): Reverse Regression
   and Salary Discrimination'

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 963cbb0b-0f45-80ed-baf0-2c2a453464c6
 title: ' fKey References'
 uid: 1d8f587c-86f6-de73-4a10-fcd696eb84ec
