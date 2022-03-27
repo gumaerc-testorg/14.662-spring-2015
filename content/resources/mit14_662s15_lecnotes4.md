@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 365d89de-fbbf-2754-a99f-dd2c9ac9eb68
 resourcetype: Document
 title: 14.662 S15 Labor Economics II Lecture 4
 uid: b43f85b8-a66f-031d-fb51-8869b70ce899

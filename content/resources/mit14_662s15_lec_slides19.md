@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: '14.662 S15 Discrimination: Theory Lecture Slides'
 uid: 4d0a285f-3797-277f-1d67-cf3a9e3416d6

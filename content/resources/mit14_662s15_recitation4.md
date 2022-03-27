@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 612222c0-168b-f1d0-a4d2-9dc6a7c517d5
 resourcetype: Document
 title: '14.662 Spring 2015 Recitation Notes: Canonical Models of Trade and Technology'
 uid: 97a3c3f6-53b6-03be-744d-3d675b3e2dc5

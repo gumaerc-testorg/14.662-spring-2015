@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ecdffbc6-f1a8-d023-041a-9d284cb2a021
 resourcetype: Other
 title: MTR.mat
 uid: ad6aac17-9cb6-3866-aa06-00560e4fa71f

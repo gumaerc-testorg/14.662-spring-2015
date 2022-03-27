@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 612222c0-168b-f1d0-a4d2-9dc6a7c517d5
 resourcetype: Document
 title: "14.662 Spring 2015 Recitation Notes: \"Fr\xE9chet-ing up\" Roy"
 uid: 339450d3-8e23-1339-1e14-3d63058168b4

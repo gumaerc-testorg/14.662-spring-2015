@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: '14.662 S15 Discrimination: Empirics Lecture Slides'
 uid: 272df635-2120-dfbb-d73d-8f88cd841d0b

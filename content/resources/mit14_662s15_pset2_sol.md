@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ecdffbc6-f1a8-d023-041a-9d284cb2a021
 resourcetype: Document
 title: 14.662 S15 Problem Set [2]solutions
 uid: 6e6da385-3722-eb38-2cca-e13f6a1a5cde

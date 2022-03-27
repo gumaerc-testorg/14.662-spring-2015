@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: 14.662 S15 Early life Determinants of Long-run Outcomes Lecture Slides
 uid: 12f13870-2fd6-fd06-991a-0042d9fac521

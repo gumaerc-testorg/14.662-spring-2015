@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: 14.662 S15 Scientific Workforce Lecture Slides
 uid: f5591fd6-c7ba-71e8-c720-0849c233739e

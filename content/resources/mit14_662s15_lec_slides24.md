@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: '14.662 S15 Intergenerational Mobility: Theory and Measurement Lecture Slides'
 uid: 782ad25c-4050-e4e7-69d1-347273b99431

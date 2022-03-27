@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 612222c0-168b-f1d0-a4d2-9dc6a7c517d5
 resourcetype: Document
 title: '14.662 Spring 2015 Recitation Notes: DFL, MM, FFL, and Quick Mundlak'
 uid: 8960ec72-8c5e-6124-a575-22a8440e0a95

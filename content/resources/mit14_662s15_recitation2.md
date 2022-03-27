@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 612222c0-168b-f1d0-a4d2-9dc6a7c517d5
 resourcetype: Document
 title: '14.662 Spring 2015 Recitation Notes: Card and Hyslop''s "Estimating the Effects
   of a Time-limited Earnings Subsidy for Welfare-leavers."'

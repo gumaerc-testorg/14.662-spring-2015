@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 612222c0-168b-f1d0-a4d2-9dc6a7c517d5
 resourcetype: Document
 title: '14.662 Spring 2015 Recitation Notes: Autor, Manning, and Smith (2015)'
 uid: 4867e055-51ce-5772-ca60-eb7aa5b98f9e

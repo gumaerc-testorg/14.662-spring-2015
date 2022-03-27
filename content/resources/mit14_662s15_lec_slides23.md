@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: 14.662 S15 Management Practices Lecture Slides
 uid: 8cdd6420-4aca-d720-ba80-63d20dc56706
