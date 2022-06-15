@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding recitation 11.
-file: /media/courses/14-662-labor-economics-ii-spring-2015/cf93dffec476272a9a12c9f785b4a093_MIT14_662S15_Recitation11.pdf
+file: /courses/14-662-labor-economics-ii-spring-2015/cf93dffec476272a9a12c9f785b4a093_MIT14_662S15_Recitation11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
@@ -14,3 +14,5 @@ title: '14.662 Spring 2015 Recitation Notes: Card, Cardoso, and Kline (2014): Ba
   Sorting, and the Gender Wage Gap'
 uid: cf93dffe-c476-272a-9a12-c9f785b4a093
 ---
+This is a file that contains information regarding recitation 11.
+

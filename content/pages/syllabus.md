@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  requirements, participation in an overlapping course, and additional economics events.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Recitations: 1 session / week, 1 hour / week
 Prerequisites
 -------------
 
-[_14.64_ _Labor Economics and Public Policy_](/courses/14-64-labor-economics-and-public-policy-fall-2009/) or [_15.660_ _Strategic Human Resource Management_](/courses/15-660-strategic-hr-management-spring-2003/).
+[_14.64_ _Labor Economics and Public Policy_](/courses/14-64-labor-economics-and-public-policy-fall-2009) or [_15.660_ _Strategic Human Resource Management_](/courses/15-660-strategic-hr-management-spring-2003).
 
 Additional Economics Events
 ---------------------------
