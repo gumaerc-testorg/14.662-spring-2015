@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the lecture notes used for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 365d89de-fbbf-2754-a99f-dd2c9ac9eb68
 ---
@@ -22,37 +26,37 @@ LECTURE NOTES
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Wage Density Decompositions (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes1)
+{{% resource_link 12ff98a8-8fe3-005f-ec9f-81351c40ab73 "Wage Density Decompositions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Job Loss and Job Search at the Micro and Macro Level (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes2)
+{{% resource_link 43bdf300-878a-17de-bad5-bbbe293ba6e8 "Job Loss and Job Search at the Micro and Macro Level (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Educational Production and Wage Structure (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes3)
+{{% resource_link 3712b784-e0c1-a485-d15b-a3b57b2f073e "Educational Production and Wage Structure (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Market Structure, Organizational Structure and Wage Structure (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes4)
+{{% resource_link b43f85b8-a66f-031d-fb51-8869b70ce899 "Market Structure, Organizational Structure and Wage Structure (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Ricardian Models of Trade (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes5)
+{{% resource_link 302fa813-1a3a-4c1f-1dc0-ab94bf09761f "Ricardian Models of Trade (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Institutions, Norms, Collective Bargaining and Worker Productivity (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes6)
+{{% resource_link 7bdfa14c-30aa-a3c5-514c-28b0a17f1adf "Institutions, Norms, Collective Bargaining and Worker Productivity (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +87,7 @@ LECTURE NOTES
 14–15
 {{< tdclose >}}
 {{< tdopen >}}
-[Self-selection: The Roy Model (PDF - 1.6MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes14)
+{{% resource_link 27a6354b-796d-1124-f3c5-1cdf5d4d0db1 "Self-selection: The Roy Model (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +96,7 @@ LECTURE NOTES
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Equalizing Wage Differentials: Theory and Empirics (PDF - 1.8MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes16)
+{{% resource_link a6e8b7d9-c784-307c-3b79-50297221f2d5 "Equalizing Wage Differentials: Theory and Empirics (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +105,7 @@ LECTURE NOTES
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Female Labor Force Participation (PDF - 1.5MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes17)
+{{% resource_link a5c22b2e-b03d-eafe-40e3-4ff96c35172f "Female Labor Force Participation (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +114,7 @@ LECTURE NOTES
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Scientific Workforce (PDF - 1.5MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes18)
+{{% resource_link d7492e2a-e222-86a7-7a2b-1ffc7d3da323 "Scientific Workforce (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +123,7 @@ LECTURE NOTES
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrimination: Theory (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes19)
+{{% resource_link d2837ffd-3e19-5e86-2d8c-97044796a31c "Discrimination: Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +132,7 @@ LECTURE NOTES
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrimination: Empirics (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes20)
+{{% resource_link a696038f-b286-6cd1-9e17-87a9d3bd4522 "Discrimination: Empirics (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +141,7 @@ LECTURE NOTES
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrimination and Learning (PDF)]({{< baseurl >}}/resources/mit14_662s15_lecnotes21)
+{{% resource_link 04ea43b1-3f2b-aa73-e3e5-cb24b32d7ce1 "Discrimination and Learning (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +150,7 @@ LECTURE NOTES
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Firm-level Determinants of Wages and Productivity: Rent-sharing (PDF - 1.4MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes22)
+{{% resource_link df6f36fe-b972-6296-52b2-1a8b5fad55ec "Firm-level Determinants of Wages and Productivity: Rent-sharing (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +159,7 @@ LECTURE NOTES
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Firm-level Determinants of Wages and Productivity: Management Practices (PDF - 1.4MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes23)
+{{% resource_link 21298890-c74f-7bf0-9ffb-a0f221f45412 "Firm-level Determinants of Wages and Productivity: Management Practices (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +168,7 @@ LECTURE NOTES
 24–25
 {{< tdclose >}}
 {{< tdopen >}}
-[Intergenerational Mobility: Theory, Measurement, and Empirics (PDF - 1.6MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes24-25)
+{{% resource_link e8a2c8ef-66ab-3cc8-ce4c-5e8d10fabfdd "Intergenerational Mobility: Theory, Measurement, and Empirics (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +177,7 @@ LECTURE NOTES
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Early Life Determinants of Long-Run Outcomes (PDF - 1.9MB)]({{< baseurl >}}/resources/mit14_662s15_lecnotes26)
+{{% resource_link e8714a8d-6217-0f14-f540-c8ba268b7cda "Early Life Determinants of Long-Run Outcomes (PDF - 1.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

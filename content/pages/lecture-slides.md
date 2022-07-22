@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides lecture slides from the second half of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: d4da7f25-1831-78f8-ed35-a408f574717c
 ---
@@ -24,7 +28,7 @@ LECTURE SLIDES
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Self-selection: The Roy Model 1]({{< baseurl >}}/resources/mit14_662s15_lec_slides14)
+{{% resource_link 111a4218-f270-fa9c-dfe9-e57ac0971218 "Self-selection: The Roy Model 1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ LECTURE SLIDES
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Self-selection: The Roy Model 2 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides15)
+{{% resource_link de1b63b3-1f13-2845-3c9f-f8a24f26f1ee "Self-selection: The Roy Model 2 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ LECTURE SLIDES
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Equalizing Wage Differentials (PDF - 1.8MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides16)
+{{% resource_link d3d1727e-eb86-93cb-ee93-9b265af1b1b6 "Equalizing Wage Differentials (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ LECTURE SLIDES
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Female Labor Force Participation (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides17)
+{{% resource_link 13e21d77-f22a-f33e-65cb-23f30ef19770 "Female Labor Force Participation (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ LECTURE SLIDES
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Scientific Workforce (PDF - 1.3MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides18)
+{{% resource_link f5591fd6-c7ba-71e8-c720-0849c233739e "Scientific Workforce (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ LECTURE SLIDES
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrimination: Theory (PDF)]({{< baseurl >}}/resources/mit14_662s15_lec_slides19)
+{{% resource_link 4d0a285f-3797-277f-1d67-cf3a9e3416d6 "Discrimination: Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ LECTURE SLIDES
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrimination: Empirics (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides20)
+{{% resource_link 272df635-2120-dfbb-d73d-8f88cd841d0b "Discrimination: Empirics (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +91,7 @@ LECTURE SLIDES
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Discrimination and Learning (PDF)]({{< baseurl >}}/resources/mit14_662s15_lec_slides21)
+{{% resource_link 787b820c-9bdc-1eb4-c370-21df9c175f76 "Discrimination and Learning (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ LECTURE SLIDES
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Rent-sharing (PDF)]({{< baseurl >}}/resources/mit14_662s15_lec_slides22)
+{{% resource_link a194ce74-2f23-4982-4cec-87ec1f60217d "Rent-sharing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +109,7 @@ LECTURE SLIDES
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Management Practices (PDF - 1.2MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides23)
+{{% resource_link 8cdd6420-4aca-d720-ba80-63d20dc56706 "Management Practices (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +118,7 @@ LECTURE SLIDES
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Intergenerational Mobility: Theory and Measurement (PDF - 1.6MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides24)
+{{% resource_link 782ad25c-4050-e4e7-69d1-347273b99431 "Intergenerational Mobility: Theory and Measurement (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +127,7 @@ LECTURE SLIDES
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Intergenerational Mobility: Empirics (PDF - 1.6MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides25)
+{{% resource_link 273f49d2-c264-6bdb-33b4-68382957f52d "Intergenerational Mobility: Empirics (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +136,7 @@ LECTURE SLIDES
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Early Life Determinants of Long-run Outcomes (PDF - 1.2MB)]({{< baseurl >}}/resources/mit14_662s15_lec_slides26)
+{{% resource_link 12f13870-2fd6-fd06-991a-0042d9fac521 "Early Life Determinants of Long-run Outcomes (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
