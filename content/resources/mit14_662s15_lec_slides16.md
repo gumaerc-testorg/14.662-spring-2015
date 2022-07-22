@@ -6,6 +6,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/d3d1727eeb8693cbee939b265af
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.662 S15 Equalizing wage differentials Lecture Slides
 uid: d3d1727e-eb86-93cb-ee93-9b265af1b1b6
 ---
 This is a resource file that contains information regarding lecture slide 16.
-

@@ -6,6 +6,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/a2b1943d3142a8aa791ab149d75
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps4.do
 uid: a2b1943d-3142-a8aa-791a-b149d752a662
 ---
 This is a special file that contains information regarding problem set 4.
-

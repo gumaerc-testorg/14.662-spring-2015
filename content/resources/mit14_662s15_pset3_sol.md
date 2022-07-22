@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/00a9e6243f51bdcc6c58457c4b2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.662 S15 Problem Set [3]solutions
 uid: 00a9e624-3f51-bdcc-6c58-457c4b26f2e2
 ---
 This is a file that contains information regarding problem set 3 solutions.
-

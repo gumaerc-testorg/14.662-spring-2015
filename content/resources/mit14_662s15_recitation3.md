@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/54c18e159ce184a4ad7e65ed603
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '14.662 Spring 2015 Recitation Notes: The Task Model'
 uid: 54c18e15-9ce1-84a4-ad7e-65ed603ca53c
 ---
 This is a file that contains information regarding recitation 3.
-

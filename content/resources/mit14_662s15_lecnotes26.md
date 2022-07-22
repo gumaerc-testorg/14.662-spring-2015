@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/e8714a8d62170f14f540c8ba268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.662 S15 Labor Economics II Lecture 26
 uid: e8714a8d-6217-0f14-f540-c8ba268b7cda
 ---
 This is a file that contains information regarding lecture 26.
-

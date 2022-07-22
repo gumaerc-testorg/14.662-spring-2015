@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/43bdf300878a17debad5bbbe293
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecturenotes2.pdf
 uid: 43bdf300-878a-17de-bad5-bbbe293ba6e8
 ---
 This is a file that contains information regarding lecture 2.
-

@@ -6,6 +6,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/e8be95cdf8c0786aa44b9c91d76
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps1_code_and_data.zip
 uid: e8be95cd-f8c0-786a-a44b-9c91d7600569
 ---
 This is a special file that contains information regarding problem set 1 code and data.
-

@@ -6,6 +6,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/f5591fd6c7ba71e8c7200849c23
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.662 S15 Scientific Workforce Lecture Slides
 uid: f5591fd6-c7ba-71e8-c720-0849c233739e
 ---
 This is a resource file that contains information regarding lecture slide 18.
-

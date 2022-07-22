@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/4867e05551ce5772ca60eb7aa5b
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '14.662 Spring 2015 Recitation Notes: Autor, Manning, and Smith (2015)'
 uid: 4867e055-51ce-5772-ca60-eb7aa5b98f9e
 ---
 This is a file that contains information regarding recitation 6.
-

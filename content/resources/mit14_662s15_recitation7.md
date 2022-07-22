@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/aac1df84d3ba72f8e44935e48a1
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "14.662 Spring 2015 Recitation Notes: The Roy Model, IsoLATEing, and Kirk
 uid: aac1df84-d3ba-72f8-e449-35e48a17fd00
 ---
 This is a file that contains information regarding recitation 7.
-

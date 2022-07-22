@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/a696038fb2866cd19e1787a9d3b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.662 S15 Labor Economics II Lecture 20
 uid: a696038f-b286-6cd1-9e17-87a9d3bd4522
 ---
 This is a file that contains information regarding lecture 20.
-

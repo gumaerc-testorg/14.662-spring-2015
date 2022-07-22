@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/d6005249144c187c2a79abfc848
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.662 Spring 2015 Recitation Notes: Mulligan (1999): Distinguishing Bec
 uid: d6005249-144c-187c-2a79-abfc8481d933
 ---
 This is a file that contains information regarding recitation 12.
-

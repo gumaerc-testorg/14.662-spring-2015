@@ -6,6 +6,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/273f49d2c2646bdb33b46838295
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.662 S15 Intergenerational Mobility: Empirics Lecture Slides'
 uid: 273f49d2-c264-6bdb-33b4-68382957f52d
 ---
 This is a resource file that contains information regarding lecture slide 25.
-

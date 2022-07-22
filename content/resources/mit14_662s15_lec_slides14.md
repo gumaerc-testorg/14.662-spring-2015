@@ -6,6 +6,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/111a4218f270fa9cdfe9e57ac09
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.662 S15 Self-selection: The Roy Model Lecture Slides'
 uid: 111a4218-f270-fa9c-dfe9-e57ac0971218
 ---
 This is a resource file that contains information regarding lecture slide 14.
-

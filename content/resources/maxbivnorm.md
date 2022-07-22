@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/65de0461c20659fda1fa1581a53
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: maxbivnorm.m
 uid: 65de0461-c206-59fd-a1fa-1581a5394314
 ---
 This is a special file that contains information regarding maxbivnorm.
-

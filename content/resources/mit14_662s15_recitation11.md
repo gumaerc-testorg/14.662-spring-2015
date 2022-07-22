@@ -5,6 +5,7 @@ file: /courses/14-662-labor-economics-ii-spring-2015/cf93dffec476272a9a12c9f785b
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '14.662 Spring 2015 Recitation Notes: Card, Cardoso, and Kline (2014): Ba
 uid: cf93dffe-c476-272a-9a12-c9f785b4a093
 ---
 This is a file that contains information regarding recitation 11.
-
