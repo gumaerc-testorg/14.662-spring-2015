@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding lecture slide
   15.
 file: /courses/14-662-labor-economics-ii-spring-2015/de1b63b31f1328453c9ff8a24f26f1ee_MIT14_662S15_lec_slides15.pdf
+file_size: 1126756
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

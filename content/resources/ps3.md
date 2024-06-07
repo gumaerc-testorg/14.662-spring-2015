@@ -3,6 +3,7 @@ content_type: resource
 description: This is a special file that contains information regarding problem set
   3.
 file: /courses/14-662-labor-economics-ii-spring-2015/33fb114b7462f778a56865c00965723a_ps3.m
+file_size: 3857
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
