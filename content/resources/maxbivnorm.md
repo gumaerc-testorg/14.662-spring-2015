@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding maxbivnorm.
 file: /courses/14-662-labor-economics-ii-spring-2015/65de0461c20659fda1fa1581a5394314_maxbivnorm.m
+file_size: 908
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
