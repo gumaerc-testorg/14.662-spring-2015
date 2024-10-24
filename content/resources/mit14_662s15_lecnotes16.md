@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding lecture 16.
-file: /courses/14-662-labor-economics-ii-spring-2015/a6e8b7d9c784307c3b7950297221f2d5_MIT14_662S15_lecnotes16.pdf
+file: /ol-ocw-studio-app/courses/14-662-labor-economics-ii-spring-2015/a6e8b7d9c784307c3b7950297221f2d5_MIT14_662S15_lecnotes16.pdf
 file_size: 1921031
 file_type: application/pdf
 learning_resource_types:
