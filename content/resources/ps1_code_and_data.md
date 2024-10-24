@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding problem set
   1 code and data.
-file: /courses/14-662-labor-economics-ii-spring-2015/e8be95cdf8c0786aa44b9c91d7600569_ps1_code_and_data.zip
+file: /ol-ocw-studio-app/courses/14-662-labor-economics-ii-spring-2015/e8be95cdf8c0786aa44b9c91d7600569_ps1_code_and_data.zip
 file_size: 1412838
 file_type: application/zip
 learning_resource_types:
