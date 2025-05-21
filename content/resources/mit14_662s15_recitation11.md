@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding recitation 11.
-file: /ol-ocw-studio-app/courses/14-662-labor-economics-ii-spring-2015/cf93dffec476272a9a12c9f785b4a093_MIT14_662S15_Recitation11.pdf
+file: /courses/14-662-labor-economics-ii-spring-2015/cf93dffec476272a9a12c9f785b4a093_MIT14_662S15_Recitation11.pdf
 file_size: 563445
 file_type: application/pdf
 learning_resource_types:
