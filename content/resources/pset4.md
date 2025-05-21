@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a special file that contains information regarding problem set
   4.
-file: /ol-ocw-studio-app/courses/14-662-labor-economics-ii-spring-2015/3e82007280a3c529ce29d443e29bd813_pset4.dta
+file: /courses/14-662-labor-economics-ii-spring-2015/3e82007280a3c529ce29d443e29bd813_pset4.dta
 file_size: 220874
 file_type: application/octet-stream
 learning_resource_types:
