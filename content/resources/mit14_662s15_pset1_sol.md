@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding problem set 1 solutions.
-file: /courses/14-662-labor-economics-ii-spring-2015/4c81460cd37991179822806158df84ae_MIT14_662S15_pset1_sol.pdf
+file: /ol-ocw-studio-app/courses/14-662-labor-economics-ii-spring-2015/4c81460cd37991179822806158df84ae_MIT14_662S15_pset1_sol.pdf
 file_size: 835782
 file_type: application/pdf
 learning_resource_types:
