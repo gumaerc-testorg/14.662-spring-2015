@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture slide
   19.
-file: /courses/14-662-labor-economics-ii-spring-2015/4d0a285f3797277f1d67cf3a9e3416d6_MIT14_662S15_lec_slides19.pdf
+file: /ol-ocw-studio-app/courses/14-662-labor-economics-ii-spring-2015/4d0a285f3797277f1d67cf3a9e3416d6_MIT14_662S15_lec_slides19.pdf
 file_size: 874684
 file_type: application/pdf
 learning_resource_types:
